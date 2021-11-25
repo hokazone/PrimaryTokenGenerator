@@ -3,4 +3,4 @@
 `dart main.dart`
 
 ## Collaborator:
-Thanks to [7rs](!https://github.com/7rs/line4py/blob/master/line4py/token.py)!
+Thanks to [7rs](https://github.com/7rs/line4py/blob/master/line4py/token.py)!
